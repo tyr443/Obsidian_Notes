@@ -149,13 +149,23 @@
               "icon": "lucide-list",
               "title": "Outline of Kanban Board"
             }
+          },
+          {
+            "id": "a680d3eec04ce340",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +183,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4cb79e75b0e65e17",
+  "active": "8167a13740b41c09",
   "lastOpenFiles": [
+    "Does This WORK!!!!",
     "Python-Learning/00 - Roadmap/Progress Tracker.md",
     "Python-Learning/00 - Roadmap/Python.md",
     "Python-Learning/Phase 1 - Python Basics/Topics/03 Operators & Expressions.md",
@@ -200,7 +211,6 @@
     "Python-Learning/Phase 1 - Python Basics/Topics/05 Loops.md",
     "Python-Learning/Phase 1 - Python Basics/Topics/04 Control Flow.md",
     "Python-Learning/Phase 1 - Python Basics/Topics/01 Python Syntax & Structure.md",
-    "Grundlage Programmierung/Untitled.md",
     "Untitled.canvas",
     "Grundlage Programmierung",
     "Grundlage Programmierung/UML Class Diagrams",
