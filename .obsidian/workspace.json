@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Python"
             }
+          },
+          {
+            "id": "66644818ca3c7978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundlage Programmierung/Check Check.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Check Check"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,11 +198,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8167a13740b41c09",
+  "active": "66644818ca3c7978",
   "lastOpenFiles": [
+    "Does This WORK!!!!/or not.md",
+    "Grundlage Programmierung/Check Check.md",
+    "Python-Learning/00 - Roadmap/Python.md",
     "Does This WORK!!!!",
     "Python-Learning/00 - Roadmap/Progress Tracker.md",
-    "Python-Learning/00 - Roadmap/Python.md",
     "Python-Learning/Phase 1 - Python Basics/Topics/03 Operators & Expressions.md",
     "Python-Learning/Phase 1 - Python Basics/Topics/02 Variables & Data Types.md",
     "Python-Learning/Phase 2 - Data Structures & File Handling/Topics/02 Dictionaries.md",
@@ -210,7 +227,6 @@
     "Python-Learning/Phase 1 - Python Basics/Topics/00 PEP 20.md",
     "Python-Learning/Phase 1 - Python Basics/Topics/05 Loops.md",
     "Python-Learning/Phase 1 - Python Basics/Topics/04 Control Flow.md",
-    "Python-Learning/Phase 1 - Python Basics/Topics/01 Python Syntax & Structure.md",
     "Untitled.canvas",
     "Grundlage Programmierung",
     "Grundlage Programmierung/UML Class Diagrams",
@@ -226,7 +242,6 @@
     "Study",
     "Java - Learning",
     "Python-Learning/Phase 7 - Application Development & Python Extras/Projects",
-    "Python-Learning/Phase 7 - Application Development & Python Extras/Topics",
-    "Python-Learning/Phase 6 - Python & Databases/Topics"
+    "Python-Learning/Phase 7 - Application Development & Python Extras/Topics"
   ]
 }
