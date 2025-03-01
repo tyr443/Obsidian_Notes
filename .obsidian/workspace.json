@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "c48ac2e8501de5b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d14a7a5f274b08a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cb79e75b0e65e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python-Learning/00 - Roadmap/Python.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b28afb3000cd52af",
+    "type": "split",
+    "children": [
+      {
+        "id": "b65027a7e5cf6920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8167a13740b41c09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0b0672cf499f91e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:if_statements",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "575c72715506186b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5
+  },
+  "right": {
+    "id": "79abee0bc4729268",
+    "type": "split",
+    "children": [
+      {
+        "id": "cafd5f32724b052b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a81560536d28da21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "001296805f59bb52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python-Learning/00 - Roadmap/Kanban Board.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kanban Board"
+            }
+          },
+          {
+            "id": "2b5cae5a472ac986",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "795b58c9a351404b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python-Learning/00 - Roadmap/Kanban Board.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kanban Board"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "4cb79e75b0e65e17",
+  "lastOpenFiles": [
+    "Python-Learning/00 - Roadmap/Progress Tracker.md",
+    "Python-Learning/00 - Roadmap/Python.md",
+    "Python-Learning/Phase 1 - Python Basics/Topics/03 Operators & Expressions.md",
+    "Python-Learning/Phase 1 - Python Basics/Topics/02 Variables & Data Types.md",
+    "Python-Learning/Phase 2 - Data Structures & File Handling/Topics/02 Dictionaries.md",
+    "Python-Learning/Phase 2 - Data Structures & File Handling/Topics/01 Lists, Tuples, and Sets.md",
+    "Python-Learning/Phase 2 - Data Structures & File Handling/Phase 2 - Data Structures & File Handling.md",
+    "Python-Learning/Phase 2 - Data Structures & File Handling/Resources.md",
+    "Python-Learning/Phase 1 - Python Basics/Phase 1 - Python Basics.md",
+    "Python-Learning/Phase 1 - Python Basics/Python Basics Resources.md",
+    "Python-Learning/Phase 1 - Python Basics/Projects/Simple Calculator.md",
+    "Grundlage Programmierung/UML Class Diagrams/02 UML Class Diagrams.md",
+    "Grundlage Programmierung/UML Class Diagrams/01 UML Class Diagrams.md",
+    "Python-Learning/Phase 7 - Application Development & Python Extras/Projects/GUI-Based Contact Manager.md",
+    "Python-Learning/Phase 7 - Application Development & Python Extras/Projects/Inventory Management System.md",
+    "Python-Learning/Phase 6 - Python & Databases/Projects/Simple Expense Tracker.md",
+    "Python-Learning/Phase 5 - Tkinter Advanced/Projects/To-Do List App.md",
+    "Python-Learning/Phase 4 - Tkinter Basics/Projects/Basic Tkinter Form.md",
+    "Python-Learning/Phase 3 - Object-Oriented Programming (OOP)/Projects/Student Management System.md",
+    "Python-Learning/Phase 2 - Data Structures & File Handling/Projects/Contact Book.md",
+    "Python-Learning/Phase 1 - Python Basics/Projects/Unit Converter.md",
+    "Python-Learning/Phase 1 - Python Basics/Topics/00 PEP 20.md",
+    "Python-Learning/Phase 1 - Python Basics/Topics/05 Loops.md",
+    "Python-Learning/Phase 1 - Python Basics/Topics/04 Control Flow.md",
+    "Python-Learning/Phase 1 - Python Basics/Topics/01 Python Syntax & Structure.md",
+    "Grundlage Programmierung/Untitled.md",
+    "Untitled.canvas",
+    "Grundlage Programmierung",
+    "Grundlage Programmierung/UML Class Diagrams",
+    "Images/Pasted image 20250222153251.png",
+    "Images",
+    "Images/Pasted image 20250222213813.png",
+    "Images/Pasted image 20250222213227.png",
+    "Images/Pasted image 20250222154732.png",
+    "Images/Pasted image 20250222154703.png",
+    "Images/Pasted image 20250222154646.png",
+    "Graphical Notation",
+    "Study/Templates",
+    "Study",
+    "Java - Learning",
+    "Python-Learning/Phase 7 - Application Development & Python Extras/Projects",
+    "Python-Learning/Phase 7 - Application Development & Python Extras/Topics",
+    "Python-Learning/Phase 6 - Python & Databases/Topics"
+  ]
+}
