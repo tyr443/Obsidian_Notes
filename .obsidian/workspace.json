@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "d14a7a5f274b08a0",
+        "id": "a9e11fe594c349a6",
         "type": "tabs",
         "children": [
           {
-            "id": "4cb79e75b0e65e17",
+            "id": "a19279c605300a7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Python-Learning/00 - Roadmap/Python.md",
-                "mode": "source",
-                "source": true
+                "aFile": ".obsidian/plugins/dataview/styles.css",
+                "bFile": ".obsidian/plugins/dataview/styles.css",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Python"
-            }
-          },
-          {
-            "id": "66644818ca3c7978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grundlage Programmierung/Check Check.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Check Check"
+              "icon": "diff",
+              "title": "Diff: styles.css"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:if_statements",
+                "query": "tag:basics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 512.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +184,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "66644818ca3c7978",
+  "active": "a19279c605300a7c",
   "lastOpenFiles": [
-    "Does This WORK!!!!/or not.md",
+    "Grundlage Programmierung/Test Prep/Object Oriented Programming (OOP).md",
+    "Grundlage Programmierung/Test Prep/Programmierparadigmen & Übersetzungsmethoden.md",
+    "Grundlage Programmierung/Test Prep/Was ist Software.md",
+    "Grundlage Programmierung/Test Prep/Datentypen.md",
+    "2025-03-02.md",
+    "Grundlage Programmierung/UML Class Diagrams/02 UML Class Diagrams.md",
+    "Grundlage Programmierung/UML Class Diagrams/01 UML Class Diagrams.md",
+    "Python-Learning/Phase 1 - Python Basics/Topics/01 Python Syntax & Structure.md",
     "Grundlage Programmierung/Check Check.md",
+    "Grundlage Programmierung/Test Prep",
+    "Grundlage Programmierung/Untitled.md",
+    "Does This WORK!!!!/or not.md",
     "Python-Learning/00 - Roadmap/Python.md",
     "Does This WORK!!!!",
     "Python-Learning/00 - Roadmap/Progress Tracker.md",
@@ -214,19 +210,10 @@
     "Python-Learning/Phase 1 - Python Basics/Phase 1 - Python Basics.md",
     "Python-Learning/Phase 1 - Python Basics/Python Basics Resources.md",
     "Python-Learning/Phase 1 - Python Basics/Projects/Simple Calculator.md",
-    "Grundlage Programmierung/UML Class Diagrams/02 UML Class Diagrams.md",
-    "Grundlage Programmierung/UML Class Diagrams/01 UML Class Diagrams.md",
     "Python-Learning/Phase 7 - Application Development & Python Extras/Projects/GUI-Based Contact Manager.md",
     "Python-Learning/Phase 7 - Application Development & Python Extras/Projects/Inventory Management System.md",
     "Python-Learning/Phase 6 - Python & Databases/Projects/Simple Expense Tracker.md",
     "Python-Learning/Phase 5 - Tkinter Advanced/Projects/To-Do List App.md",
-    "Python-Learning/Phase 4 - Tkinter Basics/Projects/Basic Tkinter Form.md",
-    "Python-Learning/Phase 3 - Object-Oriented Programming (OOP)/Projects/Student Management System.md",
-    "Python-Learning/Phase 2 - Data Structures & File Handling/Projects/Contact Book.md",
-    "Python-Learning/Phase 1 - Python Basics/Projects/Unit Converter.md",
-    "Python-Learning/Phase 1 - Python Basics/Topics/00 PEP 20.md",
-    "Python-Learning/Phase 1 - Python Basics/Topics/05 Loops.md",
-    "Python-Learning/Phase 1 - Python Basics/Topics/04 Control Flow.md",
     "Untitled.canvas",
     "Grundlage Programmierung",
     "Grundlage Programmierung/UML Class Diagrams",
@@ -241,7 +228,6 @@
     "Study/Templates",
     "Study",
     "Java - Learning",
-    "Python-Learning/Phase 7 - Application Development & Python Extras/Projects",
-    "Python-Learning/Phase 7 - Application Development & Python Extras/Topics"
+    "Python-Learning/Phase 7 - Application Development & Python Extras/Projects"
   ]
 }
