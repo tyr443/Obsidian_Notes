@@ -13,5 +13,6 @@
   "obsidian-git",
   "obsidian-image-toolkit",
   "obsidian-importer",
-  "better-export-pdf"
+  "better-export-pdf",
+  "obsidian-plantuml"
 ]

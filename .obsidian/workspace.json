@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9e11fe594c349a6",
+        "id": "259db27c2db7f832",
         "type": "tabs",
         "children": [
           {
-            "id": "a19279c605300a7c",
+            "id": "27f27a2630d382d5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/dataview/styles.css",
-                "bFile": ".obsidian/plugins/dataview/styles.css",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: styles.css"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -184,15 +179,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a19279c605300a7c",
+  "active": "a680d3eec04ce340",
   "lastOpenFiles": [
-    "Grundlage Programmierung/Test Prep/Object Oriented Programming (OOP).md",
-    "Grundlage Programmierung/Test Prep/Programmierparadigmen & Übersetzungsmethoden.md",
-    "Grundlage Programmierung/Test Prep/Was ist Software.md",
-    "Grundlage Programmierung/Test Prep/Datentypen.md",
-    "2025-03-02.md",
+    "Florian is this working.md",
     "Grundlage Programmierung/UML Class Diagrams/02 UML Class Diagrams.md",
     "Grundlage Programmierung/UML Class Diagrams/01 UML Class Diagrams.md",
+    "Grundlage Programmierung/Test Prep/Programmierparadigmen & Übersetzungsmethoden.md",
+    "Grundlage Programmierung/Test Prep/Was ist Software.md",
+    "Grundlage Programmierung/Test Prep/Object Oriented Programming (OOP).md",
+    "Grundlage Programmierung/Test Prep/Datentypen.md",
+    "2025-03-02.md",
     "Python-Learning/Phase 1 - Python Basics/Topics/01 Python Syntax & Structure.md",
     "Grundlage Programmierung/Check Check.md",
     "Grundlage Programmierung/Test Prep",
@@ -213,7 +209,6 @@
     "Python-Learning/Phase 7 - Application Development & Python Extras/Projects/GUI-Based Contact Manager.md",
     "Python-Learning/Phase 7 - Application Development & Python Extras/Projects/Inventory Management System.md",
     "Python-Learning/Phase 6 - Python & Databases/Projects/Simple Expense Tracker.md",
-    "Python-Learning/Phase 5 - Tkinter Advanced/Projects/To-Do List App.md",
     "Untitled.canvas",
     "Grundlage Programmierung",
     "Grundlage Programmierung/UML Class Diagrams",

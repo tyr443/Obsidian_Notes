@@ -10,9 +10,6 @@ tags:
 ---
 ---
 
-
-# UML Class Diagrams (Sections 1 & 2)
-
 ## Table of Contents
 - [[## 1. Introduction to UML Class Diagrams|1. Introduction to UML Class Diagrams]]
   - [[### 1.1 What is a UML Class Diagram?|1.1 What is a UML Class Diagram?]]
